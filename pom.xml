@@ -49,7 +49,6 @@
 	    <artifactId>JDA-Utilities</artifactId>
 	    <version>1.0</version>
 	</dependency>
-
         <!-- Music Dependencies -->
         <dependency>
             <groupId>dev.arbjerg</groupId>
